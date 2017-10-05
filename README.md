@@ -11,7 +11,15 @@ To contribute to this repo, make a PR! To keep things organized, put your advice
 
 ## Categories
 
-[1.General Advice](#general_advice)
+[1. General Advice](#general_advice)
+[2. Development Environment](#dev_environment)
 
 
-### 1. General Advice <a name="headin"></a>
+### 1. General Advice <a name="general_advice"></a>
+
+* add your advice here!  
+* use bullet points?
+
+
+### 2. Development Environment <a name="dev_environment"></a>
+
