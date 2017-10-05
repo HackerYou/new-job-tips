@@ -12,6 +12,7 @@ To contribute to this repo, make a PR! To keep things organized, put your advice
 ## Categories
 
 1.[General Advice](#general_advice)
+
 2.[Development Environment](#dev_environment)
 
 
