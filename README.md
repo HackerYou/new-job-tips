@@ -15,12 +15,15 @@ To contribute to this repo, make a PR! To keep things organized, put your advice
 
 2.[Development Environment](#dev_environment)
 
+2.[First Day Stories](#dev_firstDay_stories)
+
 
 ### 1. General Advice <a name="general_advice"></a>
 
 * add your advice here!  
 * use bullet points!
 
-
 ### 2. Development Environment <a name="dev_environment"></a>
+
+### 3. Development Environment <a name="dev_firstDay_stories"></a>
 
