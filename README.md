@@ -17,9 +17,10 @@ To contribute to this repo, make a PR! To keep things organized, put your advice
 
 3.[First Day Stories](#day_one)
 
-4. [Terminology](#terminology)
+4.[Terminology](#terminology)
 
-5. [Resources](#resources)
+5.[Resources](#resources)
+
 ### 1. General Advice <a name="general_advice"></a>
 
 * Ask a lot of questions! Don't be afraid to ask. Many times future frustrations about the tech stack or the approval process can get resolved waaay before you even start putting your first line of code down.  
@@ -74,7 +75,7 @@ To contribute to this repo, make a PR! To keep things organized, put your advice
 #### Web application frameworks
 * Angular - Google's web application framework of choice. Comes in two flavours: 1.x and Angular 2 and above.
     - [Angular 1.x](https://angularjs.org/) Monolithic framework using the Model-View-Controller design pattern.
-    - [Angular 2 and above](https://angular.io/)
+    - [Angular 2 and above](https://angular.io/) A componented-oriented framework which uses Typescript, a strongly-typed flavour of compiled JavaScript.
 * [Ember](https://www.emberjs.com/) - 'Highly opinionated' web application framework focused on building single-page applications a very specific way.
 * [React](https://reactjs.org) - Facebook's web application framework that uses components to ease the developer experience. Uses a virtual DOM to differentiate between changes in internal JavaScript objects.
 * [Redux](https://redux.js.org/) - A state management library for web applications, primarily used in React environments -- but not always.
